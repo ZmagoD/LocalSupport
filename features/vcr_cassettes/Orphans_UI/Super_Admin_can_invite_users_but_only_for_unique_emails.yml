@@ -186,4 +186,97 @@ http_interactions:
       string: '30559740'
     http_version: 
   recorded_at: Tue, 06 Oct 2015 04:42:26 GMT
+- request:
+    method: get
+    uri: http://127.0.0.1:56947/__identify__
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: 'OK '
+    headers:
+      Server:
+      - WEBrick/1.3.1 (Ruby/2.0.0/2015-02-25)
+      Date:
+      - Sat, 24 Oct 2015 18:57:59 GMT
+      Content-Length:
+      - '8'
+      Connection:
+      - Keep-Alive
+    body:
+      encoding: UTF-8
+      string: '13115040'
+    http_version: 
+  recorded_at: Sat, 24 Oct 2015 18:57:59 GMT
+- request:
+    method: get
+    uri: http://127.0.0.1:32776/__identify__
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: 'OK '
+    headers:
+      Server:
+      - WEBrick/1.3.1 (Ruby/2.0.0/2015-02-25)
+      Date:
+      - Sat, 24 Oct 2015 19:19:00 GMT
+      Content-Length:
+      - '8'
+      Connection:
+      - Keep-Alive
+    body:
+      encoding: UTF-8
+      string: '11751340'
+    http_version: 
+  recorded_at: Sat, 24 Oct 2015 19:19:00 GMT
+- request:
+    method: get
+    uri: http://127.0.0.1:56807/__identify__
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: 'OK '
+    headers:
+      Server:
+      - WEBrick/1.3.1 (Ruby/2.0.0/2015-02-25)
+      Date:
+      - Sun, 25 Oct 2015 08:39:49 GMT
+      Content-Length:
+      - '8'
+      Connection:
+      - Keep-Alive
+    body:
+      encoding: UTF-8
+      string: '25044140'
+    http_version: 
+  recorded_at: Sun, 25 Oct 2015 08:39:49 GMT
 recorded_with: VCR 2.9.3
