@@ -1,0 +1,24 @@
+---
+:scope: 
+:url: http://mt0.googleapis.com/vt?pb=!1m4!1m3!1i12!2i2042!3i1359!1m4!1m3!1i12!2i2042!3i1360!1m4!1m3!1i12!2i2042!3i1361!2m3!1e0!2sm!3i328000000!3m9!2sen-US!3sUS!5e18!12m1!1e47!12m3!1e37!2m1!1ssmartmaps!4e3&callback=_xdc_._p3gesi&token=80354
+:body: ''
+:status: 200
+:method: get
+:headers:
+  Date: Mon, 23 Nov 2015 19:46:13 GMT
+  Expires: Sun, 07 Aug 2016 00:36:35 GMT
+  Cache-Control: public, max-age=22222222
+  Content-Type: text/javascript; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Content-Disposition: attachment; filename="f.txt"
+  Server: paintfe
+  X-XSS-Protection: 1; mode=block
+  X-Frame-Options: SAMEORIGIN
+  Accept-Ranges: none
+  Vary: Accept-Encoding
+  Connection: close
+:content: /* API Response */ _xdc_._p3gesi && _xdc_._p3gesi([{id:"twvwvwvvwuwu",zrange:[12,12],layer:"m@328000000"},{id:"twvwvwvwvtvt",base:[1070817280,713517056],zrange:[12,12],layer:"m@328000000",features:[{id:"6172470115343578164",a:[0,0],bb:[-32,-18,32,-3,-30,-7,31,8,-18,3,18,18],c:"{1:{title:\"Colne
+  Valley Park Visitor Centre\"},4:{type:1}}"},{id:"10837346827302587422",a:[323584,-284672],bb:[-37,-18,37,-3,-22,-7,23,8,-39,3,40,18],c:"{1:{title:\"Ruislip
+  Woods National Nature Reserve\"},4:{type:1}}"}]},{id:"twvwvwvwvtvu",base:[1070979072,714010624],zrange:[12,12],layer:"m@328000000",features:[{id:"1848332501193099455",a:[0,0],bb:[-35,-13,36,2,-36,-2,36,13],c:"{1:{title:\"Stockley
+  Park Grass Pitches\"},4:{type:1}}"},{id:"6690458799742309100",a:[245760,-362496],bb:[-73,-7,-5,8],c:"{1:{title:\"RAF
+  Northolt\"},4:{type:1}}"}]}])
